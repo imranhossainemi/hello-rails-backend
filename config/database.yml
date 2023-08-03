@@ -1,0 +1,14 @@
+development:
+  database: Rails_back_end
+  username: monnie
+  password: monnie
+  adapter: postgresql
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: Rails_back_end tests
+  pool: 5
+  username: monnie
+  password: monnie
+  port: 5432
