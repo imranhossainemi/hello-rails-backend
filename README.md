@@ -74,8 +74,8 @@ Clone this repository to your desired folder:
 - cd hello-rails-back-end
 - bundle install
 - rails db:create
-- rails db:seed
 - rails db:migrate
+- rails db:seed
 
 ### Usage
 
