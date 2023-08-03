@@ -26,7 +26,7 @@
 
 - This is a application built on Ruby on Rails for the backend.Its has api and points and the best part of the application is that you can view the react routes through the api endpoints
 
--link for front end [https://github.com/monicah79/hello-react-frontend.git]
+-link for front end [https://github.com/imranhossainemi/hello-react-frontend.git]
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -70,7 +70,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone `https://github.com/monicah79/hello-rails-backend.git`
+- git clone `https://github.com/imranhossainemi/hello-rails-backend.git`
 - cd hello-rails-back-end
 - bundle install
 - rails db:create
@@ -117,7 +117,7 @@ To run tests, run the following command accordingly:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/monicah79/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/imranhossainemi/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,4 +139,4 @@ I would like to thank microverse for their resources.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/monicah79/hello-rails-back-end/blob/backend-setup/license) licensed.
+This project is [MIT](https://github.com/imranhossainemi/hello-rails-backend/blob/backend-setup/license) licensed.
