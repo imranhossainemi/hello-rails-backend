@@ -1,0 +1,14 @@
+development:
+  database: Rails_back_end
+  username: postgres
+  password: emi
+  adapter: postgresql
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: Rails_back_end tests
+  pool: 5
+  username: postgres
+  password: emi
+  port: 5432
